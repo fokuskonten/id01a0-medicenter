@@ -1,0 +1,35 @@
+================================================================================
+INFORMASI AKUN LOGIN & PANDUAN PENGGUNAAN RESMI
+Aplikasi   : MediCenter (Aplikasi Pasien Klinik Rawat Jalan Dan Resep Dokter Obat)
+SKU        : ID01A0
+Penerbit   : FokusKonten Official (https://fokuskonten.my.id)
+Bantuan WA : +62 851-8301-1318
+================================================================================
+
+1. CARA MENJALANKAN APLIKASI
+--------------------------------------------------------------------------------
+- Pemasangan Baru  : Dobel-klik 'SETUP_OTOMATIS.bat'
+- Buka Aplikasi    : Dobel-klik 'BUKA_APLIKASI.bat'
+- Akses Peramban   : http://localhost/!APP_SLUG!/public/
+
+2. KREDENSIAL AKUN LOGIN RESMI
+--------------------------------------------------------------------------------
+Akun [1]:
+   - Username / User : admin
+   - Password / Sandi: admin
+
+Akun [2]:
+   - Username / User : dr.Sri Wahyuningsih
+   - Password / Sandi: admin
+
+Akun [3]:
+   - Username / User : kasir
+   - Password / Sandi: admin
+
+3. KONEKSI BASIS DATA (DATABASE)
+--------------------------------------------------------------------------------
+- Database : laravelssklinik
+- Host     : 127.0.0.1 (Port: 3306)
+- User     : root
+- Password : (Kosong/Tanpa password)
+================================================================================
