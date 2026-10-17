@@ -1,4 +1,8 @@
 *.zip
+*.tar.gz
+*.rar
+*.exe
+*.msi
+.DS_Store
+Thumbs.db
 node_modules/
-.vscode/
-.idea/
