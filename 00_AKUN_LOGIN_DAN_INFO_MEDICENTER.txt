@@ -10,7 +10,7 @@ Bantuan WA : +62 851-8301-1318
 --------------------------------------------------------------------------------
 - Pemasangan Baru  : Dobel-klik 'SETUP_OTOMATIS.bat'
 - Buka Aplikasi    : Dobel-klik 'BUKA_APLIKASI.bat'
-- Akses Peramban   : http://localhost/!APP_SLUG!/public/
+- Akses Peramban   : http://localhost/medicenter/public/
 
 2. KREDENSIAL AKUN LOGIN RESMI
 --------------------------------------------------------------------------------

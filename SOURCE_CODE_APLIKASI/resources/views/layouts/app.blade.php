@@ -20,6 +20,10 @@
     <!-- Favicon Resmi MediCenter -->
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2300c0ef'%3E%3Cpath d='M19 10.5h-5.5V5c0-.83-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v5.5H5c-.83 0-1.5.67-1.5 1.5s.67 1.5 1.5 1.5h5.5V19c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5v-5.5H19c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5z'/%3E%3C/svg%3E">
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('favicon.ico') }}">
+    <link rel="manifest" href="{{ asset('manifest.json') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('icon-32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('icon-16.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('apple-icon.png') }}">
     @stack('css')
     <!-- Select 2 AdminLTE 2 Style -->
       <style>.select2-container--default .select2-selection--single,
